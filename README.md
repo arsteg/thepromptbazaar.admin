@@ -1,0 +1,2 @@
+# thepromptbazaar.admin
+admin
